@@ -1,3 +1,9 @@
+# Mes exercices Coding Dojo
+
+Avec solutions
+
+# vvvvvvvvvvvvvvvvvv README ORIGINAL vvvvvvvvvvvvvvvvvv
+
 # Comment installer et utiliser le Coding Dojo ?
 
 J'explique tout dans [cette vidéo](https://www.youtube.com/watch?v=jcNYk3pq098&list=PLyj4q0fkISxAPhSShp5dlNSYNAKXGDiPd).
@@ -26,6 +32,7 @@ Les exercices à l'intérieur d'un niveau de difficulté ne sont pas du tout cla
 La plupart des exercices disponibles dans ce Coding Dojo sont la traduction d'exercices en anglais déjà existants. Certains exercices sont également complètement inventés.
 
 Les sites anglais utilisés comme source d'exercices sont les suivants :
+
 - [exercism.io](https://exercism.io/)
 - [codingdojo.org](http://codingdojo.org/kata/)
 
@@ -47,7 +54,7 @@ Pour ça, suivez les étapes ci-dessous.
 
 Lisez la documentation de GitHub pour [faire un fork](https://help.github.com/en/articles/fork-a-repo). Utilisez la traduction automatique dans Chrome pour traduire la documentation en français.
 
-Une fois que c'est fait, ouvrez Visual Studio Code, puis clonez votre dépôt sur votre ordinateur : comme ce qu'on fait dans la vidéo d'installation du Coding Dojo, mais cette fois-ci avec l'URL de *votre* dépôt (le fork que vous venez de faire).
+Une fois que c'est fait, ouvrez Visual Studio Code, puis clonez votre dépôt sur votre ordinateur : comme ce qu'on fait dans la vidéo d'installation du Coding Dojo, mais cette fois-ci avec l'URL de _votre_ dépôt (le fork que vous venez de faire).
 
 ### Étape 2 : Générer les fichiers de base d'un exercice
 
@@ -56,7 +63,7 @@ J'ai créé un script qui génère automatiquement le dossier et les fichiers de
 Pour afficher la documentation de ce script, depuis la racine du dépôt dans une console, tapez :
 
 ```
-$ node .scripts/generer-exercice.js 
+$ node .scripts/generer-exercice.js
 ```
 
 Voici la documentation :
